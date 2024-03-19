@@ -143,6 +143,7 @@ img {
   font-weight: 400;
   line-height: 16px;
   color: #686868;
+
   &:hover {
     color: #151515;
   }
